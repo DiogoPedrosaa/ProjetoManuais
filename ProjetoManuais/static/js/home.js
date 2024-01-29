@@ -17,6 +17,8 @@ $(document).ready(function () {
 
 
 
+
+/* Script para o efeito de digitação no titulo ''Fluxogramas" */
 $(document).ready(function () {
     var titleText = "FLUXOGRAMAS"; 
     var titleElement = $(".custom-title"); 
